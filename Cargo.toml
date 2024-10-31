@@ -1,5 +1,5 @@
 [package]
-name = "okCloud"
+name = "rustdesk"
 version = "1.3.2"
 <<<<<<< HEAD
 authors = ["rustdesk  <info@rustdesk.com>"]
